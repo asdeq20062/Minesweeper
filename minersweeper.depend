@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1482763002 source:c:\users\edward\desktop\c++\minersweeper\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
